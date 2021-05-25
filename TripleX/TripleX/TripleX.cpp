@@ -1,7 +1,7 @@
 #include <iostream>
 #include <ctime>
 
-#define DEBUG true
+#define DEBUG false
 
 void PrintIntroduction(int Difficulty) 
 {
